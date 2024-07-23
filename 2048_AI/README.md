@@ -1,4 +1,9 @@
-All the files required to run our codes are in this repository (project-xyuan2-zgao1)
+This project focuses on enhancing AI performance in playing the classic puzzle game 2048.
+The AI algorithms employed include Genetic Algorithm (GA) and Direct Policy Learning via GA.
+The Genetic Algorithm is primarily based on the principles of natural selection, while 
+Direct Policy Learning via GA incorporates specific characteristics inherent to the 2048 game.
+
+The project is explained and evaluated in detail in paper.pdf.
 
 To run GA:
 ----------

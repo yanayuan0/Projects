@@ -3,7 +3,7 @@ The AI algorithms employed include Genetic Algorithm (GA) and Direct Policy Lear
 The Genetic Algorithm is primarily based on the principles of natural selection, while 
 Direct Policy Learning via GA incorporates specific characteristics inherent to the 2048 game.
 
-The project is explained and evaluated in detail in paper.pdf.
+The project is explained and evaluated in detail in paper.pdf. 
 
 To run GA:
 ----------

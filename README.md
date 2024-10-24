@@ -14,6 +14,9 @@ AI Plays 2048 Puzzle Game: Genetic Algorithms(GA) and Direct Policy Learning; Py
 - Engineered a custom training environment with the Gym library to optimize model training processes
 - Successfully programmed the AI to autonomously discover and apply human-like strategies such as corner stacking, alongside developing unique tactics, consistently reaching 512 tiles
 
+### 2D_Graphics
+Implementations of 2D Computer Graphics, including mouse and touch pad control of 2D shapes
+
 ### RailwayGame
 Railway Game: Two-player Route-building Game; C++, Java
 - Developed a railway management simulation game in C++ and Java, demonstrating proficiency in object-oriented programming, algorithmic design, and data structures

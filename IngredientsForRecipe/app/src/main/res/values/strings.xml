@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">httpdemo</string>
+    <string name="tap_to_view_details">Tap to view details</string>
+    <string name="recipe_recommendation">Recipe Recommendation</string>
+    <string name="add_ingredients">Add ingredients to get recipes</string>
+    <string name="add_ing">Add Ingredients</string>
+    <string name="enter_hint">Enter ingredients separated by commas</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_ingredients">Edit Ingredients</string>
+    <string name="enter_new_hint">Enter new ingredients separated by commas</string>
+    <string name="save">Save</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="used_ingredients">Used Ingredients:</string>
+    <string name="missed_ingredients">Missed Ingredients:</string>
+    <string name="instructions">Instructions</string>
+    <string name="recipe_details">Recipe Details</string>
+    <string name="back">Back</string>
+    <string name="try_another">Try another</string>
+    <string name="no_data_available">No data available</string>
+</resources>

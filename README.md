@@ -24,7 +24,7 @@ Railway Game: Two-player Route-building Game; C++, Java
 - Enhanced game persistence by integrating file handling techniques for saving and loading gameplay states, utilizing JSON for data serialization to maintain structure of game data
 
 ### Ingredients for Recipe
-- Mobile Software Development; Kotlin, Android Studio ●
+- Mobile Software Development; Kotlin, Android Studio
 - Engineered a scalable app integrating the Spoonacular API to deliver personalized recipe recommendations
 - Implemented MVVM architecture to decouple UI from business logic, enhancing code maintainability
 - Developed a dynamic and responsive UI with Jetpack Compose, effectively managing complex state transitions and

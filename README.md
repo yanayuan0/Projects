@@ -22,3 +22,12 @@ Railway Game: Two-player Route-building Game; C++, Java
 - Developed a railway management simulation game in C++ and Java, demonstrating proficiency in object-oriented programming, algorithmic design, and data structures
 - Created a robust, interactive GUI with Java (Swing/AWT), facilitating intuitive user interactions
 - Enhanced game persistence by integrating file handling techniques for saving and loading gameplay states, utilizing JSON for data serialization to maintain structure of game data
+
+### Ingredients for Recipe
+- Mobile Software Development; Kotlin, Android Studio ●
+- Engineered a scalable app integrating the Spoonacular API to deliver personalized recipe recommendations
+- Implemented MVVM architecture to decouple UI from business logic, enhancing code maintainability
+- Developed a dynamic and responsive UI with Jetpack Compose, effectively managing complex state transitions and
+handling asynchronous API interactions using Kotlin coroutines
+- Ensured seamless user experience during configuration changes by leveraging Android lifecycle management and
+persistent state handling techniques.
